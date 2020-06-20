@@ -4,7 +4,7 @@
     padding: 0;
 }
 #first_container{
-    background-image: url(.img/header_background.png);
+    background-image: url(img/header_background.png);
     background-size: cover;
     background-position: center;
     max-width: 100%;
@@ -178,7 +178,7 @@ h5{
 display: flex;
 max-width: 1370px;
 height: 500px;
-background-image: url(/img/map.png);
+background-image: url(img/map.png);
 }
 h6{
     color: #ffffff;
